@@ -33,22 +33,6 @@
     },
     {
         "category": "Browsers",
-        "id": "47B9C56F-26D4-4E67-B852-E87D6643E3F2",
-        "appName": "",
-        "basename": "OracleJavaJRE-",
-        "patches": [
-            {
-                "id": 11,
-                "policies": [
-                    16
-                ]
-            }
-        ],
-        "extensionName": "java-8-runtime",
-        "flushLogs": []
-    },
-    {
-        "category": "Browsers",
         "id": "EB0AA0D7-424D-4BBA-8405-6E23623E4A3E",
         "appName": "Firefox.app",
         "basename": "Firefox-",
