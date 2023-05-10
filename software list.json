@@ -1,21 +1,5 @@
 [
     {
-        "category": "Programming",
-        "id": "120ED19D-FF4A-4591-AB82-3D9A86B0C27C",
-        "appName": "Aquamacs.app",
-        "basename": "Aquamacs-",
-        "patches": [
-            {
-                "id": 112,
-                "policies": [
-                    72
-                ]
-            }
-        ],
-        "extensionName": "",
-        "flushLogs": []
-    },
-    {
         "category": "General Lab Software",
         "id": "C2119E19-88B1-4308-894F-6350DD81A06E",
         "appName": "Audacity.app",
@@ -25,56 +9,6 @@
                 "id": 110,
                 "policies": [
                     69
-                ]
-            }
-        ],
-        "extensionName": "",
-        "flushLogs": []
-    },
-    {
-        "category": "Browsers",
-        "id": "EB0AA0D7-424D-4BBA-8405-6E23623E4A3E",
-        "appName": "Firefox.app",
-        "basename": "Firefox-",
-        "patches": [
-            {
-                "id": 125,
-                "policies": [
-                    81
-                ]
-            }
-        ],
-        "extensionName": "",
-        "flushLogs": []
-    },
-    {
-        "category": "Special Request",
-        "id": "0B3A166C-B54A-4539-B3BC-D6A512F37237",
-        "appName": "Blender.app",
-        "basename": "Blender-",
-        "patches": [
-            {
-                "id": 136,
-                "policies": [
-                    93
-                ]
-            }
-        ],
-        "extensionName": "",
-        "flushLogs": [
-            12501
-        ]
-    },
-    {
-        "category": "Browsers",
-        "id": "6E80F965-BC3F-4AC8-ACF3-A3FF6BB624A7",
-        "appName": "Google Chrome.app",
-        "basename": "GoogleChrome-",
-        "patches": [
-            {
-                "id": 103,
-                "policies": [
-                    82
                 ]
             }
         ],
@@ -114,36 +48,22 @@
         "flushLogs": []
     },
     {
-        "category": "Utilities",
-        "id": "5FBEC24A-6252-43E7-B4AB-34548A5FED8D",
-        "appName": "Dropbox.app",
-        "basename": "Dropbox-",
+        "category": "Special Request",
+        "id": "0B3A166C-B54A-4539-B3BC-D6A512F37237",
+        "appName": "Blender.app",
+        "basename": "Blender-",
         "patches": [
             {
-                "id": 120,
+                "id": 136,
                 "policies": [
-                    77
+                    93
                 ]
             }
         ],
         "extensionName": "",
-        "flushLogs": []
-    },
-    {
-        "category": "General Lab Software",
-        "id": "BA48E728-33E4-4660-A047-568551AB59FA",
-        "appName": "Citrix Workspace.app",
-        "basename": "Citrix_Workspace_",
-        "patches": [
-            {
-                "id": 131,
-                "policies": [
-                    88
-                ]
-            }
-        ],
-        "extensionName": "",
-        "flushLogs": []
+        "flushLogs": [
+            12501
+        ]
     },
     {
         "category": "Special Request",
@@ -164,6 +84,38 @@
                 "id": 123,
                 "policies": [
                     79
+                ]
+            }
+        ],
+        "extensionName": "",
+        "flushLogs": []
+    },
+    {
+        "category": "Browsers",
+        "id": "EB0AA0D7-424D-4BBA-8405-6E23623E4A3E",
+        "appName": "Firefox.app",
+        "basename": "Firefox-",
+        "patches": [
+            {
+                "id": 125,
+                "policies": [
+                    81
+                ]
+            }
+        ],
+        "extensionName": "",
+        "flushLogs": []
+    },
+    {
+        "category": "Browsers",
+        "id": "6E80F965-BC3F-4AC8-ACF3-A3FF6BB624A7",
+        "appName": "Google Chrome.app",
+        "basename": "GoogleChrome-",
+        "patches": [
+            {
+                "id": 103,
+                "policies": [
+                    82
                 ]
             }
         ],
@@ -239,6 +191,22 @@
                 "id": 132,
                 "policies": [
                     89
+                ]
+            }
+        ],
+        "extensionName": "",
+        "flushLogs": []
+    },
+    {
+        "category": "Programming",
+        "id": "41F44478-4FD8-4E6A-8F14-8612334E49F5",
+        "appName": "Visual Studio Code.app",
+        "basename": "VisualStudioCode-",
+        "patches": [
+            {
+                "id": 154,
+                "policies": [
+                    101
                 ]
             }
         ],
