@@ -185,7 +185,7 @@
         "category": "Communications",
         "id": "AADF2FB2-9935-4B92-BCAA-9280512AA88F",
         "appName": "Skype.app",
-        "basename": "Skype-",
+        "basename": "",
         "patches": [
             {
                 "id": 132,
@@ -194,7 +194,7 @@
                 ]
             }
         ],
-        "extensionName": "",
+        "extensionName": "jamf-patch-microsoft-skype",
         "flushLogs": []
     },
     {
