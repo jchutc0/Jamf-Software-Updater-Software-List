@@ -184,8 +184,8 @@
     {
         "category": "Communications",
         "id": "AADF2FB2-9935-4B92-BCAA-9280512AA88F",
-        "appName": "Skype.app",
-        "basename": "",
+        "appName": "",
+        "basename": "Skype-",
         "patches": [
             {
                 "id": 132,
