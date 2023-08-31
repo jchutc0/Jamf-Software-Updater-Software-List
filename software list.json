@@ -196,6 +196,15 @@
         ],
         "extensionName": "jamf-patch-microsoft-skype",
         "flushLogs": []
+    },    
+    {
+        "category": "Programming",
+        "id": "3333",
+        "appName": "",
+        "basename": "SwiftLint-",
+        "patches": [],
+        "extensionName": "SwiftLint Version",
+        "flushLogs": [12953]
     },
     {
         "category": "Programming",
