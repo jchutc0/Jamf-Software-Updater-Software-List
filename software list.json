@@ -19,9 +19,9 @@
         "category": "Administrative",
         "id": "C2119E19-88B1-4308-894F-6350DD81A0E",
         "appName": "",
-        "basename": "",
+        "basename": "AutoPkg-",
         "patches": [],
-        "extensionName": "",
+        "extensionName": "autopkg",
         "flushLogs": []
     },
     {
