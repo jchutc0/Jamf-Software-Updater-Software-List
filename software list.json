@@ -16,6 +16,15 @@
         "flushLogs": []
     },
     {
+        "category": "Administrative",
+        "id": "C2119E19-88B1-4308-894F-6350DD81A0E",
+        "appName": "",
+        "basename": "",
+        "patches": [],
+        "extensionName": "",
+        "flushLogs": []
+    },
+    {
         "category": "Office",
         "id": "8D5B7969-CFDF-4480-A5C3-B10E51D5290F",
         "appName": "",
