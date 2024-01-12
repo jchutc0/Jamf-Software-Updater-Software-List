@@ -1,7 +1,7 @@
 [
     {
         "category": "General Lab Software",
-        "id": "C2119E19-88B1-4308-894F-6350DD81A06E",
+        "extensionName": "",
         "appName": "Audacity.app",
         "basename": "Audacity-",
         "patches": [
@@ -12,90 +12,75 @@
                 ]
             }
         ],
-        "extensionName": "",
         "flushLogs": []
     },
     {
-        "category": "Administrative",
-        "id": "C2119E19-88B1-4308-894F-6350DD81A0E",
         "appName": "",
-        "basename": "AutoPkg-",
-        "patches": [],
-        "extensionName": "autopkg",
-        "flushLogs": []
-    },
-    {
-        "category": "Administrative",
-        "id": "C2119E19-88B1-4308-894F-i1234",
-        "appName": "",
-        "basename": "swiftDialog-",
-        "patches": [],
-        "extensionName": "swiftDialog",
-        "flushLogs": []
-    },
-    {
         "category": "Office",
-        "id": "8D5B7969-CFDF-4480-A5C3-B10E51D5290F",
-        "appName": "",
+        "extensionName": "auto-update2",
         "basename": "Microsoft_AutoUpdate_",
         "patches": [
             {
-                "id": 130,
                 "policies": [
                     87
-                ]
+                ],
+                "id": 130
             }
         ],
-        "extensionName": "auto-update2",
         "flushLogs": []
     },
     {
-        "category": "General Lab Software",
-        "id": "3B20C1EC-A41B-4C02-8D00-B1EE5612DBDD",
+        "appName": "",
+        "category": "Administrative",
+        "patches": [],
+        "extensionName": "autopkg",
+        "flushLogs": [],
+        "basename": "AutoPkg-"
+    },
+    {
         "appName": "BBEdit.app",
-        "basename": "BBEdit-",
         "patches": [
             {
-                "id": 119,
                 "policies": [
                     76
-                ]
+                ],
+                "id": 119
             }
         ],
+        "flushLogs": [],
         "extensionName": "",
-        "flushLogs": []
+        "category": "General Lab Software",
+        "basename": "BBEdit-"
     },
     {
         "category": "Special Request",
-        "id": "0B3A166C-B54A-4539-B3BC-D6A512F37237",
-        "appName": "Blender.app",
-        "basename": "Blender-",
         "patches": [
             {
-                "id": 136,
                 "policies": [
                     93
-                ]
+                ],
+                "id": 136
             }
         ],
         "extensionName": "",
         "flushLogs": [
             12501
-        ]
+        ],
+        "appName": "Blender.app",
+        "basename": "Blender-"
     },
     {
-        "category": "Special Request",
-        "id": "67BDCFB0-072D-4128-9539-5C92E789BB00",
-        "appName": "EndNote 21.app",
-        "basename": "EndNote-",
         "patches": [],
         "extensionName": "",
-        "flushLogs": []
+        "basename": "EndNote-",
+        "flushLogs": [],
+        "appName": "EndNote 21.app",
+        "category": "Special Request"
     },
     {
-        "category": "General Lab Software",
-        "id": "9E8C8915-216E-45FA-A1DA-9C7BDF72DD9F",
         "appName": "Fetch.app",
+        "extensionName": "",
+        "category": "General Lab Software",
         "basename": "Fetch-",
         "patches": [
             {
@@ -105,14 +90,9 @@
                 ]
             }
         ],
-        "extensionName": "",
         "flushLogs": []
     },
     {
-        "category": "Browsers",
-        "id": "EB0AA0D7-424D-4BBA-8405-6E23623E4A3E",
-        "appName": "Firefox.app",
-        "basename": "Firefox-",
         "patches": [
             {
                 "id": 125,
@@ -121,89 +101,31 @@
                 ]
             }
         ],
-        "extensionName": "",
-        "flushLogs": []
+        "category": "Browsers",
+        "basename": "Firefox-",
+        "appName": "Firefox.app",
+        "flushLogs": [],
+        "extensionName": ""
     },
     {
-        "category": "Browsers",
-        "id": "6E80F965-BC3F-4AC8-ACF3-A3FF6BB624A7",
-        "appName": "Google Chrome.app",
         "basename": "GoogleChrome-",
         "patches": [
             {
-                "id": 103,
                 "policies": [
                     82
-                ]
+                ],
+                "id": 103
             }
         ],
+        "flushLogs": [],
+        "appName": "Google Chrome.app",
         "extensionName": "",
-        "flushLogs": []
+        "category": "Browsers"
     },
     {
-        "category": "Administrative",
-        "id": "AB433536-2B7D-4080-B25E-9911713A84B5",
-        "appName": "Microsoft Defender.app",
-        "basename": "Microsoft_Defender_",
-        "patches": [],
-        "extensionName": "",
-        "flushLogs": []
-    },
-    {
-        "category": "Office",
-        "id": "52334ECC-1BED-46C1-BEE9-4BADEFE26D6B",
-        "appName": "Microsoft Teams.app",
-        "basename": "Microsoft_Teams_",
-        "patches": [
-            {
-                "id": 134,
-                "policies": [
-                    91
-                ]
-            }
-        ],
-        "extensionName": "",
-        "flushLogs": []
-    },
-    {
-        "category": "Utilities",
-        "id": "62DA7C15-B9DB-4959-839C-B2F0BE1366A9",
-        "appName": "OneDrive.app",
-        "basename": "Microsoft_OneDrive_",
-        "patches": [],
-        "extensionName": "",
-        "flushLogs": []
-    },
-    {
-        "category": "Special Request",
-        "id": "7E7A66BD-2767-4C05-B078-9A851FE8E1CF",
-        "appName": "Privileges.app",
-        "basename": "Privileges-",
-        "patches": [],
-        "extensionName": "",
-        "flushLogs": []
-    },
-    {
-        "category": "Special Request",
-        "id": "4E792E6B-EEF4-47DF-BFA4-A6E11D944CC1",
-        "appName": "Signiant App.app",
-        "basename": "SigniantApp-",
-        "patches": [
-            {
-                "id": 121,
-                "policies": [
-                    78
-                ]
-            }
-        ],
-        "extensionName": "",
-        "flushLogs": []
-    },
-    {
-        "category": "Communications",
-        "id": "AADF2FB2-9935-4B92-BCAA-9280512AA88F",
         "appName": "",
-        "basename": "Skype-",
+        "flushLogs": [],
+        "extensionName": "jamf-patch-microsoft-skype",
         "patches": [
             {
                 "id": 132,
@@ -212,39 +134,101 @@
                 ]
             }
         ],
-        "extensionName": "jamf-patch-microsoft-skype",
-        "flushLogs": []
-    },    
-    {
-        "category": "Programming",
-        "id": "3333",
-        "appName": "",
-        "basename": "SwiftLint-",
-        "patches": [],
-        "extensionName": "SwiftLint Version",
-        "flushLogs": [12953]
+        "basename": "Skype-",
+        "category": "Communications"
     },
     {
-        "category": "Programming",
-        "id": "41F44478-4FD8-4E6A-8F14-8612334E49F5",
-        "appName": "Visual Studio Code.app",
-        "basename": "VisualStudioCode-",
+        "extensionName": "",
+        "category": "Administrative",
+        "flushLogs": [],
+        "basename": "Microsoft_Defender_",
+        "patches": [],
+        "appName": "Microsoft Defender.app"
+    },
+    {
+        "flushLogs": [],
+        "category": "Office",
+        "extensionName": "",
+        "appName": "Microsoft Teams (work or school).app",
+        "basename": "Microsoft_Teams_For_Work_Or_School_",
         "patches": [
             {
-                "id": 154,
+                "id": 164,
                 "policies": [
-                    101
+                    106
+                ]
+            }
+        ]
+    },
+    {
+        "appName": "OneDrive.app",
+        "patches": [],
+        "flushLogs": [],
+        "category": "Utilities",
+        "extensionName": "",
+        "basename": "Microsoft_OneDrive_"
+    },
+    {
+        "category": "Special Request",
+        "patches": [],
+        "flushLogs": [],
+        "extensionName": "",
+        "appName": "Privileges.app",
+        "basename": "Privileges-"
+    },
+    {
+        "flushLogs": [],
+        "extensionName": "",
+        "category": "Special Request",
+        "patches": [
+            {
+                "id": 121,
+                "policies": [
+                    78
                 ]
             }
         ],
-        "extensionName": "",
-        "flushLogs": []
+        "appName": "Signiant App.app",
+        "basename": "SigniantApp-"
     },
     {
-        "category": "General Lab Software",
-        "id": "41F44478-4FD8-4E6A-8F14-8612334E49E5",
-        "appName": "VLC.app",
+        "appName": "",
+        "flushLogs": [],
+        "category": "Administrative",
+        "basename": "swiftDialog-",
+        "extensionName": "swiftDialog",
+        "patches": []
+    },
+    {
+        "appName": "",
+        "category": "Programming",
+        "patches": [],
+        "basename": "SwiftLint-",
+        "extensionName": "SwiftLint Version",
+        "flushLogs": [
+            12953
+        ]
+    },
+    {
+        "appName": "Visual Studio Code.app",
+        "flushLogs": [],
+        "category": "Programming",
+        "extensionName": "",
+        "basename": "VisualStudioCode-",
+        "patches": [
+            {
+                "policies": [
+                    101
+                ],
+                "id": 154
+            }
+        ]
+    },
+    {
         "basename": "VLC-",
+        "appName": "VLC.app",
+        "category": "General Lab Software",
+        "extensionName": "",
         "patches": [
             {
                 "id": 135,
@@ -253,13 +237,12 @@
                 ]
             }
         ],
-        "extensionName": "",
         "flushLogs": []
     },
     {
         "category": "Device Drivers",
-        "id": "58C9CD7E-F92E-41C6-9502-4B7B9DAE8740",
         "appName": "VueScan.app",
+        "extensionName": "",
         "basename": "VueScan-",
         "patches": [
             {
@@ -269,13 +252,9 @@
                 ]
             }
         ],
-        "extensionName": "",
         "flushLogs": []
     },
     {
-        "category": "Communications",
-        "id": "118142E7-9F50-4626-97E0-0E4385E44A41",
-        "appName": "zoom.us.app",
         "basename": "Zoom-",
         "patches": [
             {
@@ -285,7 +264,9 @@
                 ]
             }
         ],
+        "flushLogs": [],
+        "category": "Communications",
         "extensionName": "",
-        "flushLogs": []
+        "appName": "zoom.us.app"
     }
 ]
